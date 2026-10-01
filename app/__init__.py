@@ -1,0 +1,1 @@
+"""Notizen-REST-API package."""
